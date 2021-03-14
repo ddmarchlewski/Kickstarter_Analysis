@@ -36,4 +36,4 @@ May had the most successful Kickstarter campiagns launched, but January, June, J
 
 ### Conclusion 
 
-Based on the findings here, it seems like May and June are good months to launch the campagin. 
+Based on the findings here, we can see that May and June are great months to laucnh the campagin in the U.S. 
