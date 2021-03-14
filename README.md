@@ -28,7 +28,7 @@ In the U.S., there were a total of 3038 kickstarter campagigns. The chart shows 
 
 The chart here shows that May and June have greater success rates than other months in the year.  
 
-![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/80054925/111082983-3c567200-84d9-11eb-83e8-74315bf4b7f8.png)
+![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/80054925/111083384-52653200-84db-11eb-8b78-c61014b4d35b.png)
 
 May had the most successful Kickstarter campiagns launched, but January, June, July and October approximately had the same amout of failed campagins. 
 
